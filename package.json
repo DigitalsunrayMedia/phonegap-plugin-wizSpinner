@@ -1,0 +1,21 @@
+{
+  "name": "jp.wizcorp.phonegap.plugin.wizspinnerplugin",
+  "version": "1.0",
+  "description": "Spinner plugin",
+  "cordova": {
+    "id": "jp.wizcorp.phonegap.plugin.wizSpinnerPlugin",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "author": "Wizcorp",
+  "license": "MIT",
+  "engines": {
+    "cordovaDependencies": {
+      "3.0.0": {
+        "cordova": ">100"
+      }
+    }
+  }
+}
