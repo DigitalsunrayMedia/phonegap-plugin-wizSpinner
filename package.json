@@ -1,6 +1,6 @@
 {
   "name": "jp.wizcorp.phonegap.plugin.wizSpinnerPlugin",
-  "version": "1.0",
+  "version": "1.3.0",
   "description": "Spinner plugin",
   "cordova": {
     "id": "jp.wizcorp.phonegap.plugin.wizSpinnerPlugin",
