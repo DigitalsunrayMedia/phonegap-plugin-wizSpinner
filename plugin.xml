@@ -68,8 +68,7 @@
         <header-file src="plugin/ios/wizSpinner/WizDebugLog.h"
         	target-dir="wizSpinner" />
         
-        <source-file src="plugin/ios/wizSpinner/wizSpinner.plist"
-        	target-dir="wizSpinner" />
+
         
         <framework src="ImageIO.framework" />
     </platform>
