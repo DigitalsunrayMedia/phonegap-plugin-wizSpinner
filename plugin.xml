@@ -67,6 +67,8 @@
         	target-dir="wizSpinner" /> 
         <header-file src="plugin/ios/wizSpinner/WizDebugLog.h"
         	target-dir="wizSpinner" />
+	<resource-file src="plugin/ios/wizSpinner/wizSpinner.plist"	
+        	target-dir="wizSpinner" />
         
 
         
